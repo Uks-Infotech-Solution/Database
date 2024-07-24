@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"270ad0ca7a194431b5e5d632154b72df","collectionName":"dsa_customer_applyviewcounts","type":"collection"}

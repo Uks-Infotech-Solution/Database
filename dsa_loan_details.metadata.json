@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ce675baffcb14b7a95c2be4451a5f569","collectionName":"dsa_loan_details","type":"collection"}
